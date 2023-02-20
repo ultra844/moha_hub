@@ -1,8 +1,8 @@
 {
-    "author" : ["James (jmes#1396)"],
-    "install_msg" : "Thanks for installing jmes-cogs repository.",
-    "name" : "jmes-cogs",
-    "short" : "jmes cogs",
-    "description" : "jmes cogs are various cogs for Red-DiscordBot",
-    "tags" : ["jmes", "jmes-cogs", "obfuscator", "pexels", "wordnik", "tacoshack", "whalealerts", "roblox", "fivem", "lua"]
+    "author" : ["moha (moha84#3343)"],
+    "install_msg" : "Thanks for installing moha_hub repository.",
+    "name" : "moha_hub",
+    "short" : "moha_hub",
+    "description" : "moha_hub are various for Red-DiscordBot",
+    "tags" : ["moha", "moha_hub", "obfuscator", "pexels", "wordnik", "tacoshack", "whalealerts", "roblox", "fivem", "lua"]
 }
