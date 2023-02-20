@@ -7,7 +7,7 @@ from redbot.core.utils.menus import DEFAULT_CONTROLS, menu
 import requests
 from typing import Optional, List, Tuple
 
-log = logging.getLogger("red.jmes-cogs.scriptmanager")
+log = logging.getLogger("red.moha_hub.scriptmanager")
 
 class ScriptManager(commands.Cog):
     """
@@ -15,7 +15,7 @@ class ScriptManager(commands.Cog):
     """
     
     __version__ = "1.0.0"
-    __author__ = "jmes"
+    __author__ = "moha"
     
     def __init__(self, bot):
         self.bot = bot
